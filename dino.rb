@@ -1,0 +1,5 @@
+require_relative 'dino/board_not_found'
+require_relative 'dino/version'
+require_relative 'dino/tx_rx'
+require_relative 'dino/board'
+require_relative 'dino/components'
